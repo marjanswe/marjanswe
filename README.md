@@ -1,4 +1,4 @@
-## Hi, I'm Jumamuratova Marjan
+### Hi, I'm Jumamuratova Marjan
 
 <!--
 **marjanswe/marjanswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
