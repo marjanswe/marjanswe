@@ -3,7 +3,7 @@
 ### I am a Software engineer Student
 
 ### ⚡ About Me:
-- 🏫 I am a student at **IT Center**.
+- 🏫 I am a student at **Muhammad al-Xorezmiy miyrasxorları**.
 
 <!--
 **marjanswe/marjanswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
