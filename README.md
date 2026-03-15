@@ -2,7 +2,6 @@
 
 ### I am a Software engineer Student
 
----
 ### ⚡ About Me:
 
 <!--
